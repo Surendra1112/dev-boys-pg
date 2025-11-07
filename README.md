@@ -7,4 +7,4 @@ It provides information about available **room types**, **facilities**, and also
 🎯 **Purpose:** Simple, clean, and beginner-friendly project for college students or web development learners.  
 
 👨‍💻 **Developed by:** Surendra Jyotshi  
-🔗 **Live Demo:** [https://surendra1112.github.io/dev-boys-pg/](https://surendra1112.github.io/dev-boys-pg/)
+
