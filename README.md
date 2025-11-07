@@ -1,2 +1,10 @@
-# dev-boys-pg
- modern web project created to showcase details of a Paying Guest (PG) accommodation. information about room types, facilities, and includes an online enquiry form. Built using HTML, CSS, and JavaScript, this project is simple, clean, and perfect for college or beginner web developers👨‍💻 Developed by: Surendra Jyotshi
+# 🏠 Dev Boys PG Website  
+
+A modern and responsive web project built to showcase details of a Paying Guest (PG) accommodation — **Dev Boys PG**.  
+It provides information about available **room types**, **facilities**, and also includes an **online enquiry form** for easy contact.  
+
+💻 **Technologies Used:** HTML, CSS, and JavaScript  
+🎯 **Purpose:** Simple, clean, and beginner-friendly project for college students or web development learners.  
+
+👨‍💻 **Developed by:** Surendra Jyotshi  
+🔗 **Live Demo:** [https://surendra1112.github.io/dev-boys-pg/](https://surendra1112.github.io/dev-boys-pg/)
